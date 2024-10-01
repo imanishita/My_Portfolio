@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddb8ef37.css",
+    "main.js": "/static/js/main.5d55448f.js",
+    "static/media/projectcover1.png": "/static/media/projectcover1.7b9455f17382911ee129.png",
+    "static/media/myimg.png": "/static/media/myimg.e885b3b2508c26648806.png",
+    "static/media/projectcover2.png": "/static/media/projectcover2.47f851f856b677d18ee5.png",
+    "static/media/codingimg6.jpg": "/static/media/codingimg6.025fea2a6dff1d2d6590.jpg",
+    "static/media/ResumeManishitaBiswas.pdf": "/static/media/ResumeManishitaBiswas.fe8b30d8cf537583dc16.pdf",
+    "static/media/myskills.png": "/static/media/myskills.cdf7041eccfacfb89a2c.png",
+    "index.html": "/index.html",
+    "main.ddb8ef37.css.map": "/static/css/main.ddb8ef37.css.map",
+    "main.5d55448f.js.map": "/static/js/main.5d55448f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb8ef37.css",
+    "static/js/main.5d55448f.js"
+  ]
+}
